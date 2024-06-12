@@ -1,0 +1,428 @@
+Order 1:
+  A: Requested=4, Allocated=4, Backordered=0
+  B: Requested=1, Allocated=1, Backordered=0
+  C: Requested=1, Allocated=1, Backordered=0
+  D: Requested=5, Allocated=5, Backordered=0
+  E: Requested=1, Allocated=1, Backordered=0
+Order 2:
+  A: Requested=1, Allocated=1, Backordered=0
+  B: Requested=3, Allocated=3, Backordered=0
+  E: Requested=5, Allocated=5, Backordered=0
+Order 3:
+  A: Requested=2, Allocated=2, Backordered=0
+  B: Requested=3, Allocated=3, Backordered=0
+  C: Requested=3, Allocated=3, Backordered=0
+  D: Requested=2, Allocated=2, Backordered=0
+  E: Requested=2, Allocated=2, Backordered=0
+Order 4:
+  A: Requested=3, Allocated=3, Backordered=0
+  B: Requested=2, Allocated=2, Backordered=0
+  C: Requested=5, Allocated=5, Backordered=0
+  D: Requested=3, Allocated=3, Backordered=0
+  E: Requested=3, Allocated=3, Backordered=0
+Order 5:
+  A: Requested=4, Allocated=4, Backordered=0
+  B: Requested=5, Allocated=5, Backordered=0
+  D: Requested=5, Allocated=5, Backordered=0
+  E: Requested=1, Allocated=1, Backordered=0
+Order 6:
+  A: Requested=5, Allocated=5, Backordered=0
+  B: Requested=5, Allocated=5, Backordered=0
+  C: Requested=5, Allocated=5, Backordered=0
+  D: Requested=4, Allocated=4, Backordered=0
+  E: Requested=1, Allocated=1, Backordered=0
+Order 7:
+  B: Requested=1, Allocated=1, Backordered=0
+  C: Requested=3, Allocated=3, Backordered=0
+  D: Requested=5, Allocated=5, Backordered=0
+Order 8:
+  A: Requested=3, Allocated=3, Backordered=0
+  B: Requested=3, Allocated=3, Backordered=0
+  C: Requested=1, Allocated=1, Backordered=0
+  D: Requested=5, Allocated=5, Backordered=0
+Order 9:
+  A: Requested=2, Allocated=2, Backordered=0
+  C: Requested=1, Allocated=1, Backordered=0
+  D: Requested=1, Allocated=1, Backordered=0
+Order 10:
+  B: Requested=4, Allocated=4, Backordered=0
+  C: Requested=1, Allocated=1, Backordered=0
+  D: Requested=1, Allocated=1, Backordered=0
+  E: Requested=2, Allocated=2, Backordered=0
+Order 11:
+  A: Requested=2, Allocated=2, Backordered=0
+  B: Requested=4, Allocated=4, Backordered=0
+  E: Requested=5, Allocated=5, Backordered=0
+Order 12:
+  A: Requested=4, Allocated=4, Backordered=0
+  C: Requested=2, Allocated=2, Backordered=0
+  D: Requested=1, Allocated=1, Backordered=0
+  E: Requested=3, Allocated=3, Backordered=0
+Order 13:
+  A: Requested=5, Allocated=5, Backordered=0
+  B: Requested=5, Allocated=5, Backordered=0
+  C: Requested=2, Allocated=2, Backordered=0
+  D: Requested=5, Allocated=5, Backordered=0
+  E: Requested=3, Allocated=3, Backordered=0
+Order 14:
+  A: Requested=5, Allocated=5, Backordered=0
+  B: Requested=4, Allocated=4, Backordered=0
+  C: Requested=1, Allocated=1, Backordered=0
+  D: Requested=1, Allocated=1, Backordered=0
+  E: Requested=5, Allocated=5, Backordered=0
+Order 15:
+  A: Requested=1, Allocated=1, Backordered=0
+  B: Requested=5, Allocated=5, Backordered=0
+  C: Requested=4, Allocated=4, Backordered=0
+  D: Requested=2, Allocated=2, Backordered=0
+  E: Requested=2, Allocated=2, Backordered=0
+Order 16:
+  A: Requested=5, Allocated=5, Backordered=0
+  C: Requested=5, Allocated=5, Backordered=0
+  D: Requested=3, Allocated=3, Backordered=0
+  E: Requested=5, Allocated=5, Backordered=0
+Order 17:
+  A: Requested=4, Allocated=4, Backordered=0
+  D: Requested=1, Allocated=1, Backordered=0
+  E: Requested=4, Allocated=4, Backordered=0
+Order 18:
+  A: Requested=2, Allocated=2, Backordered=0
+  B: Requested=1, Allocated=1, Backordered=0
+  C: Requested=3, Allocated=3, Backordered=0
+  D: Requested=1, Allocated=1, Backordered=0
+Order 19:
+  A: Requested=5, Allocated=5, Backordered=0
+  B: Requested=2, Allocated=2, Backordered=0
+  C: Requested=5, Allocated=5, Backordered=0
+  E: Requested=1, Allocated=1, Backordered=0
+Order 20:
+  A: Requested=5, Allocated=5, Backordered=0
+  B: Requested=3, Allocated=3, Backordered=0
+  C: Requested=5, Allocated=5, Backordered=0
+  D: Requested=1, Allocated=1, Backordered=0
+Order 21:
+  A: Requested=3, Allocated=3, Backordered=0
+  B: Requested=4, Allocated=4, Backordered=0
+  D: Requested=1, Allocated=1, Backordered=0
+Order 22:
+  A: Requested=1, Allocated=1, Backordered=0
+  B: Requested=4, Allocated=4, Backordered=0
+  C: Requested=5, Allocated=5, Backordered=0
+  D: Requested=4, Allocated=4, Backordered=0
+  E: Requested=3, Allocated=3, Backordered=0
+Order 23:
+  A: Requested=2, Allocated=2, Backordered=0
+  C: Requested=5, Allocated=5, Backordered=0
+  D: Requested=1, Allocated=1, Backordered=0
+  E: Requested=5, Allocated=5, Backordered=0
+Order 24:
+  B: Requested=5, Allocated=5, Backordered=0
+  D: Requested=1, Allocated=1, Backordered=0
+  E: Requested=2, Allocated=2, Backordered=0
+Order 25:
+  A: Requested=3, Allocated=3, Backordered=0
+  B: Requested=1, Allocated=1, Backordered=0
+  C: Requested=4, Allocated=4, Backordered=0
+  E: Requested=2, Allocated=2, Backordered=0
+Order 26:
+  A: Requested=1, Allocated=1, Backordered=0
+  B: Requested=5, Allocated=5, Backordered=0
+  C: Requested=2, Allocated=2, Backordered=0
+  D: Requested=1, Allocated=1, Backordered=0
+Order 27:
+  A: Requested=1, Allocated=1, Backordered=0
+  C: Requested=1, Allocated=1, Backordered=0
+Order 28:
+  B: Requested=2, Allocated=2, Backordered=0
+  C: Requested=5, Allocated=5, Backordered=0
+  D: Requested=1, Allocated=1, Backordered=0
+  E: Requested=4, Allocated=4, Backordered=0
+Order 29:
+  A: Requested=2, Allocated=2, Backordered=0
+  B: Requested=2, Allocated=2, Backordered=0
+  C: Requested=2, Allocated=2, Backordered=0
+  D: Requested=2, Allocated=2, Backordered=0
+Order 30:
+  A: Requested=2, Allocated=2, Backordered=0
+  B: Requested=2, Allocated=2, Backordered=0
+  C: Requested=3, Allocated=3, Backordered=0
+  D: Requested=5, Allocated=5, Backordered=0
+  E: Requested=5, Allocated=5, Backordered=0
+Order 31:
+  B: Requested=1, Allocated=1, Backordered=0
+  C: Requested=1, Allocated=1, Backordered=0
+  D: Requested=2, Allocated=2, Backordered=0
+Order 32:
+  A: Requested=2, Allocated=2, Backordered=0
+  B: Requested=3, Allocated=3, Backordered=0
+  C: Requested=4, Allocated=4, Backordered=0
+  D: Requested=4, Allocated=4, Backordered=0
+Order 33:
+  B: Requested=1, Allocated=1, Backordered=0
+  C: Requested=2, Allocated=2, Backordered=0
+Order 34:
+  A: Requested=1, Allocated=1, Backordered=0
+  B: Requested=1, Allocated=1, Backordered=0
+  D: Requested=5, Allocated=5, Backordered=0
+  E: Requested=4, Allocated=4, Backordered=0
+Order 35:
+  A: Requested=2, Allocated=2, Backordered=0
+  B: Requested=5, Allocated=5, Backordered=0
+  C: Requested=4, Allocated=4, Backordered=0
+  D: Requested=5, Allocated=5, Backordered=0
+  E: Requested=5, Allocated=5, Backordered=0
+Order 36:
+  A: Requested=3, Allocated=3, Backordered=0
+  B: Requested=4, Allocated=4, Backordered=0
+  C: Requested=5, Allocated=5, Backordered=0
+  D: Requested=4, Allocated=4, Backordered=0
+Order 37:
+  A: Requested=4, Allocated=4, Backordered=0
+  B: Requested=5, Allocated=5, Backordered=0
+  C: Requested=1, Allocated=1, Backordered=0
+  E: Requested=2, Allocated=2, Backordered=0
+Order 38:
+  A: Requested=3, Allocated=3, Backordered=0
+  B: Requested=4, Allocated=4, Backordered=0
+  C: Requested=1, Allocated=1, Backordered=0
+  D: Requested=1, Allocated=1, Backordered=0
+  E: Requested=2, Allocated=2, Backordered=0
+Order 39:
+  A: Requested=1, Allocated=1, Backordered=0
+  B: Requested=1, Allocated=1, Backordered=0
+  C: Requested=5, Allocated=5, Backordered=0
+  D: Requested=3, Allocated=3, Backordered=0
+  E: Requested=5, Allocated=5, Backordered=0
+Order 40:
+  A: Requested=1, Allocated=1, Backordered=0
+  B: Requested=2, Allocated=2, Backordered=0
+  E: Requested=1, Allocated=1, Backordered=0
+Order 41:
+  A: Requested=5, Allocated=5, Backordered=0
+  B: Requested=2, Allocated=2, Backordered=0
+  D: Requested=4, Allocated=4, Backordered=0
+  E: Requested=4, Allocated=4, Backordered=0
+Order 42:
+  A: Requested=5, Allocated=5, Backordered=0
+  B: Requested=5, Allocated=5, Backordered=0
+  C: Requested=5, Allocated=3, Backordered=2
+  D: Requested=5, Allocated=5, Backordered=0
+  E: Requested=1, Allocated=1, Backordered=0
+Order 43:
+  A: Requested=3, Allocated=3, Backordered=0
+  D: Requested=4, Allocated=4, Backordered=0
+Order 44:
+  A: Requested=2, Allocated=2, Backordered=0
+  B: Requested=2, Allocated=2, Backordered=0
+  C: Requested=2, Allocated=0, Backordered=2
+  D: Requested=4, Allocated=1, Backordered=3
+  E: Requested=4, Allocated=4, Backordered=0
+Order 45:
+  A: Requested=4, Allocated=4, Backordered=0
+  B: Requested=3, Allocated=3, Backordered=0
+  C: Requested=1, Allocated=0, Backordered=1
+  D: Requested=3, Allocated=0, Backordered=3
+  E: Requested=2, Allocated=2, Backordered=0
+Order 46:
+  A: Requested=4, Allocated=4, Backordered=0
+  C: Requested=5, Allocated=0, Backordered=5
+  D: Requested=4, Allocated=0, Backordered=4
+  E: Requested=3, Allocated=3, Backordered=0
+Order 47:
+  A: Requested=5, Allocated=5, Backordered=0
+  B: Requested=3, Allocated=3, Backordered=0
+  C: Requested=4, Allocated=0, Backordered=4
+  D: Requested=3, Allocated=0, Backordered=3
+  E: Requested=5, Allocated=5, Backordered=0
+Order 48:
+  A: Requested=1, Allocated=1, Backordered=0
+  B: Requested=5, Allocated=5, Backordered=0
+  C: Requested=1, Allocated=0, Backordered=1
+  D: Requested=5, Allocated=0, Backordered=5
+  E: Requested=5, Allocated=5, Backordered=0
+Order 49:
+  A: Requested=4, Allocated=4, Backordered=0
+  B: Requested=2, Allocated=2, Backordered=0
+  D: Requested=3, Allocated=0, Backordered=3
+  E: Requested=4, Allocated=4, Backordered=0
+Order 50:
+  D: Requested=4, Allocated=0, Backordered=4
+  E: Requested=4, Allocated=4, Backordered=0
+Order 51:
+  A: Requested=5, Allocated=5, Backordered=0
+  C: Requested=1, Allocated=0, Backordered=1
+  D: Requested=2, Allocated=0, Backordered=2
+  E: Requested=2, Allocated=2, Backordered=0
+Order 52:
+  C: Requested=2, Allocated=0, Backordered=2
+  D: Requested=4, Allocated=0, Backordered=4
+  E: Requested=4, Allocated=4, Backordered=0
+Order 53:
+  A: Requested=1, Allocated=1, Backordered=0
+  B: Requested=1, Allocated=1, Backordered=0
+  C: Requested=2, Allocated=0, Backordered=2
+  D: Requested=5, Allocated=0, Backordered=5
+Order 54:
+  A: Requested=3, Allocated=3, Backordered=0
+  B: Requested=2, Allocated=2, Backordered=0
+  C: Requested=5, Allocated=0, Backordered=5
+  D: Requested=2, Allocated=0, Backordered=2
+  E: Requested=2, Allocated=2, Backordered=0
+Order 55:
+  A: Requested=3, Allocated=3, Backordered=0
+  B: Requested=4, Allocated=4, Backordered=0
+  E: Requested=3, Allocated=3, Backordered=0
+Order 56:
+  A: Requested=2, Allocated=2, Backordered=0
+  B: Requested=5, Allocated=5, Backordered=0
+  C: Requested=3, Allocated=0, Backordered=3
+  D: Requested=1, Allocated=0, Backordered=1
+  E: Requested=5, Allocated=5, Backordered=0
+Order 57:
+  A: Requested=2, Allocated=2, Backordered=0
+  B: Requested=4, Allocated=4, Backordered=0
+  D: Requested=2, Allocated=0, Backordered=2
+  E: Requested=5, Allocated=5, Backordered=0
+Order 58:
+  A: Requested=4, Allocated=4, Backordered=0
+  B: Requested=3, Allocated=3, Backordered=0
+  E: Requested=1, Allocated=1, Backordered=0
+Order 59:
+  A: Requested=3, Allocated=3, Backordered=0
+  B: Requested=4, Allocated=4, Backordered=0
+  C: Requested=5, Allocated=0, Backordered=5
+  D: Requested=1, Allocated=0, Backordered=1
+Order 60:
+  A: Requested=3, Allocated=0, Backordered=3
+  B: Requested=5, Allocated=2, Backordered=3
+  C: Requested=4, Allocated=0, Backordered=4
+  D: Requested=1, Allocated=0, Backordered=1
+  E: Requested=3, Allocated=3, Backordered=0
+Order 61:
+  A: Requested=1, Allocated=0, Backordered=1
+  B: Requested=1, Allocated=0, Backordered=1
+  C: Requested=5, Allocated=0, Backordered=5
+  D: Requested=4, Allocated=0, Backordered=4
+  E: Requested=2, Allocated=2, Backordered=0
+Order 62:
+  A: Requested=1, Allocated=0, Backordered=1
+  C: Requested=4, Allocated=0, Backordered=4
+  D: Requested=1, Allocated=0, Backordered=1
+  E: Requested=3, Allocated=3, Backordered=0
+Order 63:
+  A: Requested=2, Allocated=0, Backordered=2
+  B: Requested=5, Allocated=0, Backordered=5
+  D: Requested=5, Allocated=0, Backordered=5
+  E: Requested=3, Allocated=3, Backordered=0
+Order 64:
+  A: Requested=5, Allocated=0, Backordered=5
+  B: Requested=5, Allocated=0, Backordered=5
+  C: Requested=5, Allocated=0, Backordered=5
+  D: Requested=4, Allocated=0, Backordered=4
+  E: Requested=1, Allocated=1, Backordered=0
+Order 65:
+  D: Requested=5, Allocated=0, Backordered=5
+  E: Requested=3, Allocated=3, Backordered=0
+Order 66:
+  A: Requested=1, Allocated=0, Backordered=1
+  B: Requested=5, Allocated=0, Backordered=5
+  C: Requested=3, Allocated=0, Backordered=3
+  D: Requested=2, Allocated=0, Backordered=2
+  E: Requested=5, Allocated=5, Backordered=0
+Order 67:
+  A: Requested=3, Allocated=0, Backordered=3
+  B: Requested=2, Allocated=0, Backordered=2
+  C: Requested=2, Allocated=0, Backordered=2
+  E: Requested=5, Allocated=5, Backordered=0
+Order 68:
+  A: Requested=2, Allocated=0, Backordered=2
+  B: Requested=2, Allocated=0, Backordered=2
+  E: Requested=1, Allocated=1, Backordered=0
+Order 69:
+  C: Requested=1, Allocated=0, Backordered=1
+  D: Requested=4, Allocated=0, Backordered=4
+  E: Requested=2, Allocated=2, Backordered=0
+Order 70:
+  A: Requested=4, Allocated=0, Backordered=4
+  B: Requested=1, Allocated=0, Backordered=1
+  C: Requested=3, Allocated=0, Backordered=3
+  D: Requested=3, Allocated=0, Backordered=3
+  E: Requested=5, Allocated=5, Backordered=0
+Order 71:
+  A: Requested=2, Allocated=0, Backordered=2
+  B: Requested=3, Allocated=0, Backordered=3
+  C: Requested=5, Allocated=0, Backordered=5
+  D: Requested=3, Allocated=0, Backordered=3
+Order 72:
+  B: Requested=5, Allocated=0, Backordered=5
+  D: Requested=3, Allocated=0, Backordered=3
+Order 73:
+  A: Requested=5, Allocated=0, Backordered=5
+  B: Requested=3, Allocated=0, Backordered=3
+  C: Requested=3, Allocated=0, Backordered=3
+  D: Requested=5, Allocated=0, Backordered=5
+Order 74:
+  A: Requested=2, Allocated=0, Backordered=2
+  B: Requested=3, Allocated=0, Backordered=3
+  C: Requested=3, Allocated=0, Backordered=3
+  D: Requested=4, Allocated=0, Backordered=4
+  E: Requested=3, Allocated=3, Backordered=0
+Order 75:
+  A: Requested=4, Allocated=0, Backordered=4
+  B: Requested=3, Allocated=0, Backordered=3
+  C: Requested=2, Allocated=0, Backordered=2
+  D: Requested=4, Allocated=0, Backordered=4
+  E: Requested=2, Allocated=2, Backordered=0
+Order 76:
+  B: Requested=1, Allocated=0, Backordered=1
+  C: Requested=4, Allocated=0, Backordered=4
+  D: Requested=5, Allocated=0, Backordered=5
+  E: Requested=3, Allocated=3, Backordered=0
+Order 77:
+  A: Requested=5, Allocated=0, Backordered=5
+  B: Requested=1, Allocated=0, Backordered=1
+  C: Requested=4, Allocated=0, Backordered=4
+  D: Requested=2, Allocated=0, Backordered=2
+  E: Requested=4, Allocated=4, Backordered=0
+Order 78:
+  A: Requested=5, Allocated=0, Backordered=5
+  C: Requested=5, Allocated=0, Backordered=5
+  D: Requested=3, Allocated=0, Backordered=3
+  E: Requested=1, Allocated=1, Backordered=0
+Order 79:
+  A: Requested=4, Allocated=0, Backordered=4
+  B: Requested=1, Allocated=0, Backordered=1
+  C: Requested=5, Allocated=0, Backordered=5
+Order 80:
+  B: Requested=5, Allocated=0, Backordered=5
+  C: Requested=5, Allocated=0, Backordered=5
+  D: Requested=2, Allocated=0, Backordered=2
+Order 81:
+  A: Requested=1, Allocated=0, Backordered=1
+  B: Requested=1, Allocated=0, Backordered=1
+  C: Requested=3, Allocated=0, Backordered=3
+  D: Requested=2, Allocated=0, Backordered=2
+  E: Requested=4, Allocated=4, Backordered=0
+Order 82:
+  B: Requested=1, Allocated=0, Backordered=1
+  C: Requested=3, Allocated=0, Backordered=3
+  D: Requested=1, Allocated=0, Backordered=1
+  E: Requested=5, Allocated=5, Backordered=0
+Order 83:
+  A: Requested=5, Allocated=0, Backordered=5
+  B: Requested=5, Allocated=0, Backordered=5
+  C: Requested=2, Allocated=0, Backordered=2
+  D: Requested=3, Allocated=0, Backordered=3
+  E: Requested=3, Allocated=3, Backordered=0
+Order 84:
+  A: Requested=1, Allocated=0, Backordered=1
+  C: Requested=2, Allocated=0, Backordered=2
+  D: Requested=1, Allocated=0, Backordered=1
+  E: Requested=4, Allocated=4, Backordered=0
+Order 85:
+  A: Requested=3, Allocated=0, Backordered=3
+  B: Requested=2, Allocated=0, Backordered=2
+  C: Requested=3, Allocated=0, Backordered=3
+  D: Requested=2, Allocated=0, Backordered=2
+  E: Requested=1, Allocated=1, Backordered=0
+Final Inventory: {'A': 0, 'B': 0, 'C': 0, 'D': 0, 'E': 0}
